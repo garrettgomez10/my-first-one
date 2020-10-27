@@ -1,2 +1,3 @@
 # my-first-one
-This is my first repository
+
+Hi! I'm testing out Git!
